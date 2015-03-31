@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>MyWebPage</title>
+<style>
+  
+.shray {
+    background-color:black;
+    color:white;
+    margin:20px;
+    padding:20px;
+  border-radius: 5px;
+}
+</style>
+</head>
+<body>
+</head>
+<body>
+  <link href='http://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet' type='text/css'>
+  
+<!-----start navbar---->
+  <nav>
+    <ul>
+        <li><a href="http://jsbin.com/kuyude/19">Home Page</a></li>
+        <li>
+      <a href="http://jsbin.com/cavabi/9"> Mi familia</span></a>
+            <div>
+                <ul>
+                </ul>
+            </div>
+        </li>
+        <li><a href="http://jsbin.com/micavo/2"> Hobbies </a></li>
+        <li><a href="Page.html"> Page </a></li>
+    </ul>
+</nav>
+  <!-----end navbar---->
+
+  <div class="shray">
+<h2>Blank</h2>
+<p>
+  What! I need to type more stuff here?
+
+</p>
+
+    </div>
+    
+    <div class="shray">
+<h2>There should be another header here</h2>
+<p>
+  Es un paragraph en el espanola.
+</p>  
+</div>
+ 
+
+</body>   
+</html>
