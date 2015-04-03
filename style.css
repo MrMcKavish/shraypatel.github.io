@@ -1,12 +1,14 @@
 body {
 
   background-image: url("http://cloud-4.steamusercontent.com/ugc/43116295274565139/98311AF41D582C7D6271ED94EBC5F7CA30EBCE5A/");
-  
+/*start font*/  
 font-family: 'Quicksand', sans-serif;
   font-weight: 333;
   font-size: 15px;
 }
+/*end font*/
 
+/*start nav-bar*/
 nav {
   background-color: #000;
   border-radius: 5px;
@@ -19,7 +21,7 @@ nav {
       list-style-type: none;
     }
       
-      nav > ul > li > a > .caret {
+      nav > ul > li > a > {
         border-top: 4px solid #fff;
         border-right: 4px solid transparent;
         border-left: 4px solid transparent;
@@ -40,3 +42,4 @@ nav {
         nav > ul > li:hover {
           background-color: rgb(75,75,75);
         }
+/*end nav-bar*/
