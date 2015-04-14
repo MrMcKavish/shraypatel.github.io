@@ -1,5 +1,8 @@
 
 body {
+    background-image: url("http://cloud-4.steamusercontent.com/ugc/43116295274565139/98311AF41D582C7D6271ED94EBC5F7CA30EBCE5A/");
+/*start font*/  
+font-family: 'Quicksand', sans-serif;
 .shray {
   background-color:black;
   color:white;
@@ -7,9 +10,7 @@ body {
   padding:20px;
   border-radius: 5px;
 }
-  background-image: url("http://cloud-4.steamusercontent.com/ugc/43116295274565139/98311AF41D582C7D6271ED94EBC5F7CA30EBCE5A/");
-/*start font*/  
-font-family: 'Quicksand', sans-serif;
+
 }
 
 nav {
