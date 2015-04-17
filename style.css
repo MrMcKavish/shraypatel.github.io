@@ -9,7 +9,9 @@ font-family: 'Quicksand', sans-serif;
   padding:20px;
   border-radius: 5px;
 }
-
+img{
+    border-radius: 10 px;
+}
 }
 
 nav {
