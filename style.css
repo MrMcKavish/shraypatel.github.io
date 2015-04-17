@@ -10,6 +10,7 @@ font-family: 'Quicksand', sans-serif;
   border-radius: 5px;
 }
 IMG {
+    border: 3px solid #000000;
     border-radius: 10 px;
 }
 }
