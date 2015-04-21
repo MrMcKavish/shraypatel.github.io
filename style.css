@@ -14,7 +14,9 @@ IMG {
     border-radius: 10 px;
 }
 }
-
+a{
+    color: #FFFFFF;
+}
 nav {
   background-color: #000;
   border-radius: 4px;
