@@ -1,7 +1,10 @@
 
 body {
     background-image: url("http://bishopstornes.com/sitebuilder/images/tokyo-blue-background-4547-1100x677-1044x451.jpg");
+    background-repeat: no-repeat;
+    
 font-family: 'Quicksand', sans-serif;
+
 .vermicelli {
   background-color:black;
   color:white;
