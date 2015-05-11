@@ -1,2 +1,2 @@
-# TheRealShrayPatel.github.io
+# ShrayPatel.github.io
 a website
