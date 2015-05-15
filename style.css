@@ -1,5 +1,14 @@
 body {
-    background-image: url("http://www.pageresource.com/wallpapers/wallpaper/night-tokyo-related-keywords_334045.jpg");
+    font-family: 'Quicksand', sans-serif;
+
+.vermicelli {
+  background-color:black;
+  color:white;
+  margin:20px;
+  padding:20px;
+  border-radius: 5px;
+}
+    
     
 }
     
